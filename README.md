@@ -10,7 +10,7 @@
 > [!WARNING]
 > **This repository has been archived and is no longer maintained.**
 > 
-> Development of Update Me has stopped, and the app will no longer receive updates or support. I recommend using [**Obtainium**](https://github.com/ImranR98/Obtainium) as an alternative solution for managing app updates for modded apps and apps outside the Play Store.
+> This development fork of Update Me is only intended for my own learning, and is not yet recommended to daily use, and I don't promise to keep it maintained. I recommend using [**Obtainium**](https://github.com/omeritzics/Updatium), which is a Flutter application I actively maintain, as the alternative solution for managing app updates for modded apps and apps outside the Play Store.
 
 &nbsp;
 
