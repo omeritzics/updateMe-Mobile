@@ -8,8 +8,6 @@
 &nbsp;
 
 > [!WARNING]
-> **This repository has been archived and is no longer maintained.**
-> 
 > This development fork of Update Me is only intended for my own learning, and is not yet recommended to daily use, and I don't promise to keep it maintained. I recommend using [**Updatium**](https://github.com/omeritzics/Updatium), which is a Flutter application I actively maintain, as the alternative solution for managing app updates for modded apps and apps outside the Play Store.
 
 &nbsp;
